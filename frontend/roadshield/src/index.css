@@ -1,0 +1,10 @@
+@import "tailwindcss";
+.App {
+  @apply text-center;
+}
+.map-container {
+  @apply h-[500px] w-full;
+}
+.alert {
+  @apply bg-red-500 text-white p-2 m-2 rounded;
+}
